@@ -104,10 +104,17 @@
 <span class="date-7" data-format="dd.mm.yyyy"></span>
 </span> <span class="article__author">Ion Atanasiu </span>
 					</div>
-					<h3 class="article__title" style="line-height: 40px;">
-						Erecție la 60 de ani?! Aceasta poate fi restabilită la orice vârstă!
-						Asociația Specialiștilor Profesioniști din România a lansat un produs senzațional care este de 3 ori mai eficient decat Viagra!
-					</h3>
+					<div style="display: flex;
+								align-items: flex-end;
+								gap: 10px;
+								margin: 0 auto;">
+						<h3 class="article__title" style="line-height: 40px; max-width: 700px;">
+							<b>Erecție la 60 de ani?!</b> Aceasta poate fi restabilită la orice vârstă!
+							Asociația Specialiștilor Profesioniști din România a lansat un produs senzațional care este de 3 ori mai eficient decat Viagra!
+						</h3>
+						<img src="./img1.jpg" alt="img1">
+					</div>
+
 
 					<div class="article__text js-mediator-article">
 <span style="font-size: 28px;
@@ -124,7 +131,8 @@ Atenție! Mai jos găsiți informații despre cum puteți obține acest produs!
 
 </span>
 						<p>
-							<i style="font-style: italic;"> În primăvara anului 2015, ceva neobișnuit s-a întâmplat la Congresul European al Sexologilor și Urologilor. Întregul public l-a aplaudat în picioare pe omul de știință de pe scenă timp de 10 minute. Acest om de știință era Alexandru Marinescu, un urolog român. Anume el și un grup de oameni de știință au creat un remediu special capabil să elimine complet problemele de erecție la bărbați cauzate de producția de hormoni luteinizant și hormoni de stimulare a foliculilor de către glanda pituitară. </i>
+							<i style="font-style: italic;"> În primăvara anului 2015, ceva neobișnuit s-a întâmplat la Congresul European al Sexologilor și Urologilor. Întregul public l-a aplaudat în picioare pe omul de știință de pe scenă timp de 10 minute. Acest om de știință era Alexandru Marinescu, un urolog român. 
+								<br> Anume el și un grup de oameni de știință au creat un remediu special capabil să elimine complet problemele de erecție la bărbați cauzate de producția de hormoni luteinizant și hormoni de stimulare a foliculilor de către glanda pituitară. </i>
 
 						</p>
 						<div class="center">
@@ -132,7 +140,7 @@ Atenție! Mai jos găsiți informații despre cum puteți obține acest produs!
 								<img alt="img" src="1.jpg" style="max-width: 450px; width: 100%;"  loading="lazy">
 							</picture>
 							<p style="max-width: 550px; margin: 0px auto;">
-								<i style="font-style: italic; font-size: 16px; line-height: 1.3; text-align: center; display: block;"> Alexandru Marinescu, medic chirurg-urolog și medic generalist român, profesor, inventatorul unui tratament unic pentru disfuncția erectilă. A murit la scurt timp după descoperire, în 2015. </i>
+								<i style="font-style: italic; font-size: 16px; line-height: 1.3; text-align: center; display: block;"><b>Alexandru Marinescu, medic chirurg-urolog și medic generalist român, profesor, inventatorul unui tratament unic pentru disfuncția erectilă. A murit la scurt timp după descoperire, în 2015.</b> </i>
 							</p>
 						</div>
 						<p>
@@ -153,6 +161,8 @@ Atenție! Mai jos găsiți informații despre cum puteți obține acest produs!
 								<source srcset="files/images/2_1.webp" type="image/webp">
 								<img alt="img" loading="lazy" src="files/images/2_1.jpg">
 							</picture>
+
+							<img src="./img2.jpg" alt="img">
 						</div>
 						<p>
 <span style="display: block; font-style: italic; font-size: 16px; text-align: center; line-height: 1.3;">
@@ -209,6 +219,7 @@ Citatul lui Petru Roșca despre motivul pentru care funcția erectilă dispare �
 						<p>
 							Cu toate acestea, stilul de viață modern și, în special, stilul de viață sedentar al bărbaților moderni au dus la scăderea anormală a nivelului de testosteron mai devreme decât de obicei. După vârsta de 30 de ani, 93% dintre bărbații pe care i-am chestionat aveau un nivel mediu de 5 nmol/l, jumătate din nivelul normal! </p>
 						<p>– <strong> Cum îi poate ajuta Eronex pe bărbați. </strong></p>
+						<img src="./img3.jpg" alt="">
 						<p>
 							Este important să se înțeleagă că <b> Eronex </b> nu este un stimulent. Scopul său este diferit, și anume de a activa producția de testosteron din organism și, în general, nu este nici neobișnuit, nici periculos pentru extinderea circulației sângelui în zona inghinală, ca Viagra și analogii săi și alte preparate chimice. </p>
 						<p>
