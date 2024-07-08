@@ -1343,6 +1343,11 @@ top:0px;
   max-width: 700px;
 }
 
+.first-screen3 h3 b {
+  font-size: 27px;
+  font-weight: 800;
+}
+
 .first-screen3 img {
   width: 100%;
   max-width: 330px;
@@ -1353,6 +1358,10 @@ top:0px;
     font-size: 20px;
     line-height: 25px;
     max-width: none;
+  }
+
+  .first-screen3 h3 b {
+    font-size: 22px;
   }
 }
 
