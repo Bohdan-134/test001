@@ -2483,7 +2483,7 @@
                         </div>
                         <div class="first-screen3">
                             <h3 class="article__title">
-                                <b>Erecție la 60 de ani?! Aceasta poate fi restabilită la orice vârstă!</b><br><br>
+                                <b>Erecție la 60 de ani?! Aceasta poate fi restabilită la orice vârstă!</b><br>
                                 Asociația Specialiștilor Profesioniști din România a lansat un produs senzațional care este de 3 ori mai eficient decat Viagra!
                             </h3>
                             <div class="first-screen3-img-wrapper">

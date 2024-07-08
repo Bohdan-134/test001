@@ -1346,6 +1346,9 @@ top:0px;
 .first-screen3 h3 b {
   font-size: 27px;
   font-weight: 800;
+  display: block;
+  padding: 10px 15px;
+  border: 4px solid black;
 }
 
 .first-screen3-img-wrapper {
@@ -1354,7 +1357,7 @@ top:0px;
   max-width: 330px;
 }
 
-.first-screen3-img-wrapper {
+.first-screen3-img-wrapper img {
   width: 100%;
   height: 100%;
   object-fit: cover;
