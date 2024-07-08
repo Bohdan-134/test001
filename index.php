@@ -214,7 +214,9 @@ Citatul lui Petru Roșca despre motivul pentru care funcția erectilă dispare �
 						<p>
 							Cu toate acestea, stilul de viață modern și, în special, stilul de viață sedentar al bărbaților moderni au dus la scăderea anormală a nivelului de testosteron mai devreme decât de obicei. După vârsta de 30 de ani, 93% dintre bărbații pe care i-am chestionat aveau un nivel mediu de 5 nmol/l, jumătate din nivelul normal! </p>
 						<p>– <strong> Cum îi poate ajuta Eronex pe bărbați. </strong></p>
-						<img src="./img3.jpg" alt="" style="margin: 0 auto;">
+						<div class="img-wrapper-custom1">
+							<img src="./img3.jpg" alt="">
+						</div>
 						<p>
 							Este important să se înțeleagă că <b> Eronex </b> nu este un stimulent. Scopul său este diferit, și anume de a activa producția de testosteron din organism și, în general, nu este nici neobișnuit, nici periculos pentru extinderea circulației sângelui în zona inghinală, ca Viagra și analogii săi și alte preparate chimice. </p>
 						<p>
