@@ -1341,8 +1341,19 @@ top:0px;
   max-width: 700px;
 }
 
+.first-screen3 img {
+  width: 100%;
+  max-width: 248px;
+}
+
 @media (max-width: 500px) {
   .first-screen3 h3 {
+    max-width: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .first-screen3 img {
     max-width: none;
   }
 }

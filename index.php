@@ -2486,7 +2486,7 @@
                                 <b>Erecție la 60 de ani?!</b> Aceasta poate fi restabilită la orice vârstă!
                                 Asociația Specialiștilor Profesioniști din România a lansat un produs senzațional care este de 3 ori mai eficient decat Viagra!
                             </h3>
-                            <img style="width: 100%; max-width: 248px;" src="./img1.jpeg" alt="img1">
+                            <img src="./img1.jpeg" alt="img1">
                         </div>
 
 
