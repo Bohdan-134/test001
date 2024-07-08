@@ -1338,20 +1338,20 @@ top:0px;
 }
 
 .first-screen3 h3 {
-  font-size: 35px;
-  line-height: 35px;
+  font-size: 25px;
+  line-height: 30px;
   max-width: 700px;
 }
 
 .first-screen3 img {
   width: 100%;
-  max-width: 248px;
+  max-width: 330px;
 }
 
 @media (max-width: 500px) {
   .first-screen3 h3 {
-    font-size: 30px;
-    line-height: 30px;
+    font-size: 20px;
+    line-height: 25px;
     max-width: none;
   }
 }

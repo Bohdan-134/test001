@@ -2440,7 +2440,7 @@
                                                 });
                                                 document.write(localeString)
                                             </script>
-                                        </div> <a href="/" title="Adevărul" class="l svelte-937ibe"><img src="logo.svg" alt="Adevărul" width="320" height="50" class="svelte-937ibe"></a>
+                                        </div> <a href="/" title="Adevărul" class="l svelte-937ibe"><img src="logo.jpeg" alt="Adevărul" width="320" height="50" class="svelte-937ibe"></a>
                                         <a href="#">
                                             <form action="/search" method="get" class="svelte-937ibe">
                                                 <input type="search" name="q" placeholder="Caută în adevarul.ro" required="" class="svelte-937ibe"> <img src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23111' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-search'%3e%3ccircle cx='11' cy='11' r='8'%3e%3c/circle%3e%3cline x1='21' y1='21' x2='16.65' y2='16.65'%3e%3c/line%3e%3c/svg%3e" alt="search" width="24" height="24" class="svelte-937ibe"></form>
@@ -2483,7 +2483,7 @@
                         </div>
                         <div class="first-screen3">
                             <h3 class="article__title">
-                                <strong><b>Erecție la 60 de ani?!</b> Aceasta poate fi restabilită la orice vârstă!</strong><br>
+                                <b>Erecție la 60 de ani?! Aceasta poate fi restabilită la orice vârstă!</b><br><br>
                                 Asociația Specialiștilor Profesioniști din România a lansat un produs senzațional care este de 3 ori mai eficient decat Viagra!
                             </h3>
                             <img src="./img1.jpeg" alt="img1">
