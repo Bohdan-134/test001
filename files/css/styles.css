@@ -1323,3 +1323,15 @@ top:0px;
  position: relative;
  top: 0px;   
 }
+
+
+.custom-center2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.custom-center2 img {
+  width: 40%;
+}

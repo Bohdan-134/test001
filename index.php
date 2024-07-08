@@ -111,7 +111,7 @@
 							<b>Erecție la 60 de ani?!</b> Aceasta poate fi restabilită la orice vârstă!
 							Asociația Specialiștilor Profesioniști din România a lansat un produs senzațional care este de 3 ori mai eficient decat Viagra!
 						</h3>
-						<img style="width: 100%; max-width: 248px;" src="./img1.jpg" alt="img1">
+						<img style="width: 100%; max-width: 248px;" src="./img1.jpeg" alt="img1">
 					</div>
 
 
@@ -155,12 +155,8 @@ Atenție! Mai jos găsiți informații despre cum puteți obține acest produs!
 							Cu toate acestea, puțini oameni se gândesc la problemele din viața unui bărbat care pot duce la tulburări în viața sa sexuală. </p>
 						<p>Leziuni cauzate de plăcile aterosclerotice:</p>
 
-						<div class="center" style="display: flex; flex-direction: row; align-items: center;">
-							<picture>
-								<source srcset="files/images/2_1.webp" type="image/webp">
-								<img alt="img" loading="lazy" src="files/images/2_1.jpg">
-							</picture>
-
+						<div class="center custom-center2">
+							<img alt="img" loading="lazy" src="files/images/2_1.jpg">
 							<img src="./img2.jpg" alt="img">
 						</div>
 						<p>
@@ -218,7 +214,7 @@ Citatul lui Petru Roșca despre motivul pentru care funcția erectilă dispare �
 						<p>
 							Cu toate acestea, stilul de viață modern și, în special, stilul de viață sedentar al bărbaților moderni au dus la scăderea anormală a nivelului de testosteron mai devreme decât de obicei. După vârsta de 30 de ani, 93% dintre bărbații pe care i-am chestionat aveau un nivel mediu de 5 nmol/l, jumătate din nivelul normal! </p>
 						<p>– <strong> Cum îi poate ajuta Eronex pe bărbați. </strong></p>
-						<img src="./img3.jpg" alt="">
+						<img src="./img3.jpg" alt="" style="margin: 0 auto;">
 						<p>
 							Este important să se înțeleagă că <b> Eronex </b> nu este un stimulent. Scopul său este diferit, și anume de a activa producția de testosteron din organism și, în general, nu este nici neobișnuit, nici periculos pentru extinderea circulației sângelui în zona inghinală, ca Viagra și analogii săi și alte preparate chimice. </p>
 						<p>
